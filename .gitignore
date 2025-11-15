@@ -7,3 +7,6 @@ __pycache__/
 
 # Archivos del sistema operativo (Mac)
 .DS_Store
+
+# Ignorar todos los datasets
+data/
